@@ -1,0 +1,9 @@
+{
+    "name": "games-backend",
+    "version": "0.0.1",
+  	"description": "An example module to illustrate a games interface",
+  	"author": "Max Furman<max@smallstep.com>",
+  	"dependencies": {
+  	    "concat-stream": "*"
+  	}
+}

@@ -1,0 +1,7 @@
+{
+    "name": "accounting-backend",
+    "version": "0.0.1",
+    "description": "An example module to illustrate a accounting interface",
+    "author": "Max Furman<max@smallstep.com>",
+    "dependencies": {}
+}

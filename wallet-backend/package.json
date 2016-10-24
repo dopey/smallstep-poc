@@ -1,0 +1,9 @@
+{
+    "name": "wallet-backend",
+    "version": "0.0.1",
+  	"description": "An example module to illustrate a wallet interface",
+  	"author": "Max Furman<max@smallstep.com>",
+  	"dependencies": {
+  	    "concat-stream": "*"
+  	}
+}
